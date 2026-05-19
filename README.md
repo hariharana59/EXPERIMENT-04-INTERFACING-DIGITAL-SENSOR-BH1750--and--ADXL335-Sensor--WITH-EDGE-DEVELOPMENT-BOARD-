@@ -221,7 +221,9 @@ while True:
         time.sleep(2)
 ````
 
-### OUPUT  
+### OUTPUT:
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/6f23668c-abe3-42fd-a1f0-39ebe1730a41" />
+
 
 # FIGURE -04 PROGRAM OUTPUT:
 <img width="1918" height="1078" alt="Screenshot 2026-05-13 112808" src="https://github.com/user-attachments/assets/16907612-c67b-4288-a933-2501d4cbd180" />
